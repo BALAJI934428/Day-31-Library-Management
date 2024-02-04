@@ -163,7 +163,7 @@ export function AddBooks() {
                     name="website"
                     onChange={handleChange}
                     type="text"
-                    placeholder="website"
+                    placeholder="ISBN Number"
                   />
                 </div>
 
